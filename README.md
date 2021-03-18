@@ -1,4 +1,6 @@
-### Hi, I'm Tirso :smiley:
+### Hi, I'm Tirso <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+
+<h3 align="left">About:</h3>
 
 ---
 
