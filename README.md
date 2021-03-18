@@ -10,8 +10,7 @@
 ---
 
 ### You can find me 🌍
-[<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="Souarvdey777 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[instagram]: https://www.instagram.com/tirsodelalamo/
-[linkedin]: https://www.linkedin.com/in/tirsodelalamomartin/
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/tirsodelalamomartin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tirsodelalamomartin/" height="30" width="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/tirsodelalamo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="https://www.instagram.com/tirsodelalamo/" height="30" width="40" /></a>
+</p>
