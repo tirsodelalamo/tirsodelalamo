@@ -1,7 +1,7 @@
 # Hey, I'm Tirso! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <h3 align="left">About:</h3>
-Hi, I'm Tirso del Álamo, a <span>Full Stack Developer<span> from Madrid, Spain 
+Hi, I'm Tirso del Álamo, a <bold>Full Stack Developer</bold> from Madrid, Spain 
 
 ---
 
