@@ -1,6 +1,7 @@
-### Hi, I'm Tirso <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+# Hey, I'm Tirso! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 <h3 align="left">About:</h3>
+Hi, I'm **Tirso del Álamo**, a **Full Stack Developer** from Madrid, Spain 
 
 ---
 
@@ -9,10 +10,9 @@
 
 ---
 
-[![tirsodelalamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirsodelalamo)](https://github.com/anuraghazra/github-readme-stats)
-
 <a href="https://github.com/tirsodelalamo">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirsodelalamo&layout=compact" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=tirsodelalamo&theme=buefy&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirsodelalamo&theme=buefy&layout=compact" />
 </a>
 
 ### You can find me here 🌍
