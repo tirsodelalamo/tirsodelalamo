@@ -12,7 +12,6 @@
 <a href="https://github.com/tirsodelalamo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirsodelalamo&layout=compact" />
 </a>
----
 
 ### You can find me here 🌍
 <p align="left">
