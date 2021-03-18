@@ -2,6 +2,7 @@
 
 <h3 align="left">About:</h3>
 Hi, I'm Tirso del Álamo, a Full Stack Developer from Madrid, Spain.
+</ br>
 Coding both back-end and front-end 🚀
 
 ---
