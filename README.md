@@ -7,6 +7,8 @@
 
 ---
 
+[![tirsodelalamo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tirsodelalamo)](https://github.com/anuraghazra/github-readme-stats)
+
 <a href="https://github.com/tirsodelalamo">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirsodelalamo&layout=compact" />
 </a>
