@@ -17,7 +17,7 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tirsodelalamo&theme=buefy&layout=compact" />
 </a>
 
-## 🌍 You can find me here:  
+## 🌍 You can find me here:    
 <p align="left">
 <a href="https://github.com/tirsodelalamo" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="https://github.com/tirsodelalamo" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/tirsodelalamomartin/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/tirsodelalamomartin/" height="30" width="40" /></a>
